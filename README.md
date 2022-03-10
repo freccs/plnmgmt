@@ -1,7 +1,7 @@
 # plnmgmt
 _PLNMGMT_ SYSTEM v0.1
 
-Relational database structure for managing and distributing consturction industrial project planning between client and contractors.
+Relational database structure, written in MSSQL for managing and distributing construction industrial project planning between client and contractors. 
 Includes revision handling.
 
 Hungarian prezi-->>
