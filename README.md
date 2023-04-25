@@ -2,9 +2,9 @@
 _PLNMGMT_ SYSTEM v0.1
 
 Relational database structure, written in MSSQL for managing and distributing construction industrial project planning between client and contractors. 
-Includes revision handling.
+Features revision handling.
 
-Hungarian prezi-->>
+English prezi-->>
 https://prezi.com/p/8zptotub7r2m/?present=1
 
 
